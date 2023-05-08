@@ -1,0 +1,57 @@
+html, body, h1, h2, h3 {font-family: 'PT Sans Narrow', sans-serif;
+margin: 0px;
+padding: 0px;}
+
+h1 {text-decoration: underline;}
+h4 {font-size: 40px;
+padding: 0px 30px;}
+
+ul li {height: 300px;
+width: 100%;
+}
+
+p {font-size: 20px; color: rgb(199, 197, 197);
+padding: 0px 20px;
+font-size: 25px;
+}
+    
+    .nav {
+    border-bottom: solid rgb(255, 255, 255) 3px;
+display: flex;
+justify-content: space-between;
+align-content:flex-start;}
+    
+    .nav h3 {color: rgb(255, 255, 255);}
+    
+    .nav a {text-decoration: none; color: white;}
+    
+    .head{color: white; 
+    font-size: xx-large;
+    text-align: center;
+    background-image: url(./HTMLProjectAssets/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg) ;
+    padding:20px;
+    height: fit-content;
+}
+.title {
+    padding: 100px;
+margin: 20px;
+font-size: 50px;}
+
+.list {list-style-type: none; background-color: rgb(255, 255, 255);
+margin: 0px;
+padding: 0px;
+display: flex;
+flex-direction: column;}
+.notbread, .notpasta {padding-right: 20px;}
+.notpineapple {padding-left: 20px;}
+
+
+
+   #bread {background-color: black; color: grey;
+}
+   #pineapple {background-color: rgb(63, 62, 62);
+}
+   #pasta {background-color: rgb(102, 104, 104);}
+
+
+
